@@ -49,13 +49,13 @@ height: 130px;
 width:100px;
 float: left;
 margin-bottom: 15%;
-margin-right: 2%;
+margin-right: 7%;
     }
     .abc img{
         height: 130px;
         width:100px;
         float: wrap;
-        margin-right: 2%;
+        margin-right:7%;
     }
     #a{
         font-size: 15px;
