@@ -15,11 +15,6 @@ h1{
     padding: 2% 0px;
     margin-bottom: 0;
 }
-.hi{
-    height: 2000px;
-    width: 500px;
-    background-color:black;
-}
 .abc{
     width: 150px;
     height: 200px;
@@ -53,13 +48,13 @@ h1{
         background-color: black;
     }
     .abc{
-height: 70px;
-width:50px;
+height: 90px;
+width:70px;
 margin-bottom: 15%;
     }
     .abc img{
-        height: 70px;
-width:50px;
+        height: 90px;
+width:70px;
     }
     .hi{
         width: 230px;
