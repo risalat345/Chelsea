@@ -33,10 +33,9 @@ h1{
     background-color: deeppink;
    }
    .cc{
-    background-color: darkblue;
-    color: aliceblue;
+    background-color: aqua;
     margin-top: 0;
-    border-radius: 2px;
+    border-radius: 7px;
     text-align: center;
    }
 @media (max-width:500px) {
@@ -74,6 +73,10 @@ margin-left: 4%;
         height: 50px;
         width: 50px;
     }
+    .cc{
+        background-color: darkblue;
+        color: aliceblue;
+        border-radius: 2px;
 }
    
    
