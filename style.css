@@ -45,14 +45,14 @@ h1{
         background-color: black;
     }
     .abc{
-height: 150px;
-width:120px;
+height: 110px;
+width:90px;
 float: left;
 margin-bottom: 15%;
     }
     .abc img{
-        height: 150px;
-        width:120px;
+        height: 110px;
+        width:90px;
         float: wrap;
     }
     #a{
