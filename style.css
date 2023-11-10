@@ -40,19 +40,20 @@ h1{
    }
 @media (max-width:500px) {
     body{
-        font-size: 8px;
+        font-size: 12px;
         margin: 0%;
         background-color: black;
     }
     .abc{
-height: 110px;
-width:90px;
+height: 130px;
+width:100px;
 float: left;
 margin-bottom: 15%;
+margin-right: 2%;
     }
     .abc img{
-        height: 110px;
-        width:90px;
+        height: 130px;
+        width:100px;
         float: wrap;
     }
     #a{
